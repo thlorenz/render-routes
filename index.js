@@ -21,8 +21,9 @@ var go = module.exports = function (allRoutes) {
   return template(relevant);
 };
 
+/*
 // Test
-/*if (!module.parent) {
+if (!module.parent) {
   var allRoutes = require('./test/fixtures/express-routes');
 
   fs.writeFileSync(__dirname + '/test/fixtures/express-routes-rendered.html', go(allRoutes), 'utf8');
