@@ -5,6 +5,7 @@ Give it a routes object and it spits out html that you can load into your browse
 ```js
 var renderRoutes = require('render-routes');
 var express = require('express');
+var app = express();
 
 app.get('/routes', function (req, res) {
   res.send(renderRoutes(app.routes));
