@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Routes</title>
+  <style>  
+    ul {
+      position: absolute;
+      width: 80%;
+      list-style-type: none;
+    }
+    li {
+      border-radius: 15px;
+      margin: 5px;
+      padding: 10px;
+    }
+    li p {
+      margin: 2px 
+    }
+    li .method {
+      color: white;
+      font-size: 10px;
+    }
+    li .path {
+      color: yellow;
+    }
+    li.GET {
+      background: green;
+    }
+    li.POST {
+      background: orange;
+    }
+    li.PUT {
+      background: magenta;
+    }
+    li.DELETE {
+      background: red;
+    }
+    li.PATCH {
+      background: blue;
+    }
+  </style>
+</head>
+<body>
+  <ul>
+    {{#each this}}
+    <li class="{{method}}">
+      <p class="method">{{method}}</p>
+      <p class="path">{{path}}</p> </li>
+    {{/each}}
+  </ul>
+</body>
+</html>

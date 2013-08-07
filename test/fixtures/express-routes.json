@@ -1,0 +1,275 @@
+{
+  "get": [
+    {
+      "path": "/data/*",
+      "method": "get",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {},
+      "params": []
+    },
+    {
+      "path": "/routes",
+      "method": "get",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {},
+      "params": []
+    },
+    {
+      "path": "/build.js",
+      "method": "get",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "post": [
+    {
+      "path": "/data/*",
+      "method": "post",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "put": [
+    {
+      "path": "/data/*",
+      "method": "put",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "head": [
+    {
+      "path": "/data/*",
+      "method": "head",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "delete": [
+    {
+      "path": "/data/*",
+      "method": "delete",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "options": [
+    {
+      "path": "/data/*",
+      "method": "options",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "trace": [
+    {
+      "path": "/data/*",
+      "method": "trace",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "copy": [
+    {
+      "path": "/data/*",
+      "method": "copy",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "lock": [
+    {
+      "path": "/data/*",
+      "method": "lock",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "mkcol": [
+    {
+      "path": "/data/*",
+      "method": "mkcol",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "move": [
+    {
+      "path": "/data/*",
+      "method": "move",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "propfind": [
+    {
+      "path": "/data/*",
+      "method": "propfind",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "proppatch": [
+    {
+      "path": "/data/*",
+      "method": "proppatch",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "unlock": [
+    {
+      "path": "/data/*",
+      "method": "unlock",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "report": [
+    {
+      "path": "/data/*",
+      "method": "report",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "mkactivity": [
+    {
+      "path": "/data/*",
+      "method": "mkactivity",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "checkout": [
+    {
+      "path": "/data/*",
+      "method": "checkout",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "merge": [
+    {
+      "path": "/data/*",
+      "method": "merge",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "m-search": [
+    {
+      "path": "/data/*",
+      "method": "m-search",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "notify": [
+    {
+      "path": "/data/*",
+      "method": "notify",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "subscribe": [
+    {
+      "path": "/data/*",
+      "method": "subscribe",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "unsubscribe": [
+    {
+      "path": "/data/*",
+      "method": "unsubscribe",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ],
+  "patch": [
+    {
+      "path": "/data/*",
+      "method": "patch",
+      "callbacks": [
+        null
+      ],
+      "keys": [],
+      "regexp": {}
+    }
+  ]
+}
