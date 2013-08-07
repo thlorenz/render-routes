@@ -1,6 +1,6 @@
 {
   "name": "render-routes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Give it a routes object and it spits out html that you can load into your browser.",
   "main": "index.js",
   "scripts": {
